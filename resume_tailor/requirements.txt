@@ -1,0 +1,7 @@
+streamlit
+python-docx
+pydantic
+rapidfuzz
+requests
+ollama
+python-dotenv
